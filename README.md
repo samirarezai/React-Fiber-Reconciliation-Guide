@@ -1,4 +1,4 @@
-# React Fiber & Reconciliation - Interview Q&A (React 19 vs earlier)
+# React Fiber & Reconciliation
 
 A study guide for **React Fiber**, the **reconciliation** algorithm, and how **React 19** fits next to **React 16 to 18**.
 
