@@ -1,6 +1,6 @@
 # React Fiber & Reconciliation - Interview Q&A (React 19 vs earlier)
 
-A study guide for **React Fiber**, the **reconciliation** algorithm, and how **React 19** fits next to **React 16 to 18**. Diagrams use [Mermaid](https://mermaid.js.org/) so they render as figures on GitHub, GitLab, and many IDEs.
+A study guide for **React Fiber**, the **reconciliation** algorithm, and how **React 19** fits next to **React 16 to 18**.
 
 ---
 
